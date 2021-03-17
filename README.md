@@ -1,4 +1,4 @@
-This mod is for giving players the possibility to skip the night if the majority agrees.
+This mod is for giving players the possibility to make it night if the majority agrees.
 
 Depencies:
 -Vote https://github.com/rubenwardy/vote
